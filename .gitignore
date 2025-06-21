@@ -45,3 +45,5 @@ out/
 *.pid
 *.seed
 *.pid.lock
+# NPM global packages
+.npm-global/
