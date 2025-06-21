@@ -4,10 +4,14 @@
 .bashrc
 .cache/
 .claude/
+.claude.json
 .config/
 .dotnet/
 .npm/
 .vscode/
+.vscode-server/
+.profile
+.wget-hsts
 
 # IDE
 .idea/
